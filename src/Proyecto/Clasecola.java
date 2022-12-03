@@ -108,7 +108,7 @@ public boolean ColaVacia(int _frente)
          System.out.println("Esta cola no tiene elementos");
      }else
        //aclaracion aqui utilice una lista para que no me imprimiera hasta los datos en null pero pude haber imprimido usado un ciclo y la cola.
-          
+      //ejemplo:    
 //public void MostrarContenido_conArreglo()
   //{
   //    String Datos_imprimir="";
