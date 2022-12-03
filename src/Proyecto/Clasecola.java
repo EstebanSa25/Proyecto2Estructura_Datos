@@ -107,6 +107,18 @@ public boolean ColaVacia(int _frente)
      if(datos.size()==0){
          System.out.println("Esta cola no tiene elementos");
      }else
+       //aclaracion aqui utilice una lista para que no me imprimiera hasta los datos en null pero pude haber imprimido usado un arreglo y la cola.
+          
+//public void MostrarContenido_conArreglo()
+  //{
+  //    String Datos_imprimir="";
+   // for (int i = 0; i < MAXTAM; i++) {
+    //         Datos_imprimir+="Num: "+cola[i];
+             
+    //     }
+    //  System.out.println(Datos_imprimir);
+
+ // }
    System.out.println("Persona:"+datos);
     }
 }
