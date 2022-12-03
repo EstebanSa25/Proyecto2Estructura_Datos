@@ -113,7 +113,7 @@ public boolean ColaVacia(int _frente)
   //{
   //    String Datos_imprimir="";
    // for (int i = 0; i < MAXTAM; i++) {
-    //         Datos_imprimir+="Num: "+cola[i];
+    //     Datos_imprimir+=cola[i]+"\n";
              
     //     }
     //  System.out.println(Datos_imprimir);
