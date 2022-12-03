@@ -107,7 +107,7 @@ public boolean ColaVacia(int _frente)
      if(datos.size()==0){
          System.out.println("Esta cola no tiene elementos");
      }else
-       //aclaracion aqui utilice una lista para que no me imprimiera hasta los datos en null pero pude haber imprimido usado un arreglo y la cola.
+       //aclaracion aqui utilice una lista para que no me imprimiera hasta los datos en null pero pude haber imprimido usado un ciclo y la cola.
           
 //public void MostrarContenido_conArreglo()
   //{
